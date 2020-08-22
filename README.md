@@ -37,7 +37,7 @@ El segundo método para alcanzar el resultado se encuentra comentado de igual ma
 ### 3 (997, 19, 33, 1)
 | Iteracion  | Valor 1   | Valor 1   | Resultado   |
 |------------|-----------|-----------|-------------|
-|      1     |   997     |    19     |    508      |
+|      1     |   **997** |    19     |    508      |
 |      2     |   508     |    19     |    263.5    |
 |      3     |   263.5   |    19     |    141.25   |
 |      4     |   141.25  |    19     |    80.125   |
@@ -45,4 +45,4 @@ El segundo método para alcanzar el resultado se encuentra comentado de igual ma
 |      6     |   49.5625 |    19     |  34.28125   |
 |      7     |  34.28125 |    19     |  26.640625  |
 |      8     |  34.28125 | 26.640625 |  30.4609375 |
-|      9     |  34.28125 | 30.4609375| 32.37109375 |
+|      9     |  34.28125 | 30.4609375| **32.37109375**** |
