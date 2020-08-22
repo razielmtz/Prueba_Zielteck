@@ -15,7 +15,7 @@ El segundo método para alcanzar el resultado se encuentra comentado de igual ma
 ## Pruebas realizadas en formato (Límite superior, Límite inferior, Objetivo, Error)
 
 ### 1 (100, 20, 52.5, 0.5)
-| Iteracion  | Valor 1   | Valor 1   | Resultado   |
+| Iteración  | Valor 1   | Valor 2   | Resultado   |
 |------------|-----------|-----------|-------------|
 |      1     |    **100**    |    **20**     |    60       |
 |      2     |     60    |    20     |    40       |
@@ -24,7 +24,7 @@ El segundo método para alcanzar el resultado se encuentra comentado de igual ma
 |      5     |     55    |    50     |    **52.5**     |
 
 ### 2 (211, 34, 93.5, 0.5)
-| Iteracion  | Valor 1   | Valor 1   | Resultado   |
+| Iteración  | Valor 1   | Valor 2   | Resultado   |
 |------------|-----------|-----------|-------------|
 |      1     |   **211**     |    **34**     |    122.5    |
 |      2     |   122.5   |    34     |    78.25    |
@@ -35,7 +35,7 @@ El segundo método para alcanzar el resultado se encuentra comentado de igual ma
 |      7     |  94.84375 | 92.078125 |  **93.4609375** |
 
 ### 3 (997, 19, 33, 1)
-| Iteracion  | Valor 1   | Valor 1   | Resultado   |
+| Iteración  | Valor 1   | Valor 2   | Resultado   |
 |------------|-----------|-----------|-------------|
 |      1     |   **997** |    **19**     |    508      |
 |      2     |   508     |    19     |    263.5    |
